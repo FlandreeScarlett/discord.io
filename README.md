@@ -1,5 +1,6 @@
-
-<img align="center" width="55%" height="55%" src="https://cdn.rawgit.com/izy521/discord.io/master/logo.svg">
+<p align="center">
+    <img width="55%" height="55%" src="https://cdn.rawgit.com/izy521/discord.io/master/logo.svg">
+</p>
 <h1 align="center">discord.io</h1>
 
 A small, single-file, fully featured [Discordapp](https://discordapp.com) library for Node.js.
